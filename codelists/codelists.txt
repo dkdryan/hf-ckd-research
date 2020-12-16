@@ -1,3 +1,8 @@
-opensafely/chronic-cardiac-disease/2020-04-08
-opensafely/chronic-liver-disease/2020-06-02
-opensafely/asthma-inhaler-salbutamol-medication/2020-04-15
+opensafely/covid-identification/2020-06-03
+opensafely/aplastic-anaemia/2020-04-24
+opensafely/asplenia/2020-06-02
+opensafely/current-asthma/2020-05-06
+opensafely/ace-inhibitor-medications/2020-05-19
+opensafely/angiotensin-ii-receptor-blockers-arbs/2020-05-19
+opensafely/chronic-kidney-disease/2020-04-14
+opensafely/heart-failure/2020-05-05
