@@ -5,7 +5,6 @@ from cohortextractor import (StudyDefinition, patients, codelist_from_csv, codel
 
 ##CODE LIST
 systolic_blood_pressure_codes = codelist(["2469."], system="ctv3")
-
 ace_inhibitor_codes = codelist_from_csv("codelists/opensafely-ace-inhibitor-medications.csv",system="snomed",column="id")
 arb_inhibitor_codes = codelist_from_csv("codelists/opensafely-angiotensin-ii-receptor-blockers-arbs.csv", system='snomed', column='id')
 hf_codes = codelist_from_csv("codelists/opensafely-heart-failure.csv", system="ctv3", column="CTV3ID")

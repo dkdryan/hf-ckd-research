@@ -11,10 +11,12 @@ actions:
       highly_sensitive:
         cohort: output/input.csv
 
-  run_model:
-    run: stata-mp:latest analysis/model.do
+  plot_hist:
+    run: r:latest analysis/age_hist.R
     needs: [generate_study_population]
     outputs:
       moderately_sensitive:
-        log: logs/model.log
+        log: output/age_hist_log.txt
+        figure: output/age_hist.png
+   
 
