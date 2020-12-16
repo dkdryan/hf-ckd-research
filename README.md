@@ -1,10 +1,8 @@
-# OpenSAFELY Research Template
+# OpenSAFELY Heart Failure and Chronic Kidney Disease Study 
 
-This is a template repository for making new OpenSAFELY resarch projects.
+David K Ryan 
 
-# _title goes here_
-
-This is the code and configuration for our paper, _name goes here_
+Academic Foundation Doctor, St George's Hospital, London
 
 * The paper is [here]()
 * Raw model outputs, including charts, crosstabs, etc, are in `released_outputs/`
